@@ -93,6 +93,9 @@ a {
     border:5px #195190FF dashed; /* Farge  for ramme rundt innholdet */
     padding: 20px;
     margin: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+
   }
   .flex-container {
     display: flex; 
